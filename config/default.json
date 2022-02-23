@@ -1,0 +1,5 @@
+{
+    "serverPort": 5000,
+    "secretKey": "SECRET_KEY",
+    "DB_HOST": "mongodb+srv://aleksey:UY.rhi942zpVpU.@cluster0.be2rm.mongodb.net/password-manager?retryWrites=true&w=majority"
+}
